@@ -10,7 +10,7 @@ Simply load this script before or after running hackmud.
 You can run the compiled version (autohotkey-hackmud.exe) before or after running hackmud and it will automatically run the script, no setup required.
 
 ##Hotkeys
-Ctrl-w : Delete one word back
-Ctrl-x : Copy
-Ctrl-c : Clear command line
-Alt-Enter : Borderless Full-Screen Mode
+- Ctrl-w : Delete one word back
+- Ctrl-x : Copy
+- Ctrl-c : Clear command line
+- Alt-Enter : Borderless Full-Screen Mode
